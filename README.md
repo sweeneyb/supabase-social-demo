@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Supabase social auth demo
+## Getting started
+```
+git clone git@github.com:sweeneyb/supabase-social-demo.git
+cd supabase-social-demo
+npm install
+npm start
+```
+
+Your browser should open to localhost:3000 with a page allowing you to sign in via email or github.  I control the app, so you won't be able to see the user records.  But if you sign in and see the sign-out button, you know it's worked.  
+
+Once we have the sign-in done, we can continue building out profiles, linking to other systems-of-truth, or building the app.
+
+## This repo used Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
